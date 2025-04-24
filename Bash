@@ -1,0 +1,2 @@
+mkdir davanna && cd davanna
+git init
